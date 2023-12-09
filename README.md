@@ -5,6 +5,7 @@ Shows a small pop-up in right bottom corner to show current screen width and Boo
 ## Installation
 
 Responsive_debugger is made of pure javascript and requires no libraries to run.
+
 Include the following code in your HTML page:
 
 ```sh
